@@ -1,6 +1,6 @@
 # Marketing Funnel & Attribution Dashboard (SQL + Tableau)
 
-[View Dashboard](marketing_attribution_performance.png)
+[View Dashboard](marketing_attribution_performance.PNG)
 
 This project analyzes the full marketing funnel from lead acquisition to revenue attribution, using SQL-cleaned data and Tableau visualizations.
 
